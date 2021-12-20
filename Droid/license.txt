@@ -1,0 +1,11 @@
+Model Information:
+* title:	Star Wars R2-D2 Droid (Rigged-Animated)
+* source:	https://sketchfab.com/3d-models/star-wars-r2-d2-droid-rigged-animated-2202a755869647daaf0dfa3765d074bd
+* author:	kioshi (https://sketchfab.com/paladiikostea)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Star Wars R2-D2 Droid (Rigged-Animated)" (https://sketchfab.com/3d-models/star-wars-r2-d2-droid-rigged-animated-2202a755869647daaf0dfa3765d074bd) by kioshi (https://sketchfab.com/paladiikostea) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
