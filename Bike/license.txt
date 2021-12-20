@@ -1,0 +1,11 @@
+Model Information:
+* title:	Motorcycle [Ducati Super Sports]
+* source:	https://sketchfab.com/3d-models/motorcycle-ducati-super-sports-ee644039cc634ae88be57e68a83c4aeb
+* author:	Noah (https://sketchfab.com/Noaah)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Motorcycle [Ducati Super Sports]" (https://sketchfab.com/3d-models/motorcycle-ducati-super-sports-ee644039cc634ae88be57e68a83c4aeb) by Noah (https://sketchfab.com/Noaah) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
